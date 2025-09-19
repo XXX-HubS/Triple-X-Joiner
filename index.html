@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Triple X Finder - Joiner</title>
+</head>
+<body>
+  <h2>Triple X Finder Server Joiner</h2>
+  <button id="joinBtn">Join Server</button>
+  <script>
+    // Get placeId and gameInstanceId from the URL
+    function getParam(name) {
+      let url = new URL(window.location.href);
+      return url.searchParams.get(name);
+    }
+    let placeId = getParam("placeId");
+    let gameInstanceId = getParam("gameInstanceId");
+
+    document.getElementById("joinBtn").onclick = function() {
+      if(placeId && gameInstanceId) {
+        window.location.href = `roblox://placeId=${placeId}&gameInstanceId=${gameInstanceId}`;
+      } else {
+        alert("Missing placeId or gameInstanceId in URL!");
+      }
+    };
+  </script>
+  <p>If Roblox doesn't open, make sure you have the Roblox client installed.</p>
+</body>
+</html>
