@@ -18,5 +18,10 @@
     "name": "Los Bros",
     "value": "$225M/s",
     "extra": "Secret"
+  },
+  {
+    "name": "Pot Hotspot",
+    "value": "$25M/s",
+    "extra": "Secret"
   }
 ]
