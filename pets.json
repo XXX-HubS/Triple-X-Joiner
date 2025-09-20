@@ -31,5 +31,9 @@
   {
     "name": "test",
     "value": "$1M/s"
+  },
+  {
+    "name": "debug_test",
+    "value": "$1M/s"
   }
 ]
