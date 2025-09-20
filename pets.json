@@ -23,5 +23,9 @@
     "name": "Pot Hotspot",
     "value": "$25M/s",
     "extra": "Secret"
+  },
+  {
+    "name": "test",
+    "value": "$1M/s"
   }
 ]
