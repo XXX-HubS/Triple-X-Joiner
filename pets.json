@@ -1021,5 +1021,13 @@
     "value": "$3.50M/s",
     "timestamp": 1758439001,
     "count": 1
+  },
+  {
+    "name": "Orcalero Orcala",
+    "placeid": 109983668079237,
+    "value": "$600.00K/s",
+    "timestamp": 1758439028,
+    "jobid": "68c9fb9b-4f22-4d90-97f5-64a287584c50",
+    "count": 1
   }
 ]
