@@ -2814,5 +2814,13 @@
     "timestamp": 1758454749,
     "jobid": "72e73b7c-31de-4309-8fc6-3e12b82cb0fb",
     "count": 1
+  },
+  {
+    "name": "Espresso Signora",
+    "placeid": 109983668079237,
+    "value": "$945.00K/s",
+    "timestamp": 1758454753,
+    "jobid": "72e73b7c-31de-4309-8fc6-3e12b82cb0fb",
+    "count": 1
   }
 ]
