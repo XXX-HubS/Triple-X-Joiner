@@ -457,5 +457,16 @@
     "value": "$2.10M/s",
     "timestamp": 1758438461,
     "count": 1
+  },
+  {
+    "rarity": "Locked:",
+    "rarityColor": "#FF0000",
+    "jobid": "1b90e7f9-6f2f-494c-9ebd-84539d5e20f7",
+    "variation": "(Offline Cash: <font color=\"#73ff00\">$750K</font>)",
+    "name": "Karkerkar Kurkur",
+    "placeid": 109983668079237,
+    "value": "$5.30M/s",
+    "timestamp": 1758438464,
+    "count": 1
   }
 ]
