@@ -1451,5 +1451,13 @@
     "timestamp": 1758439486,
     "jobid": "bbdbe0c2-ed22-4dd1-a098-ddca833949c6",
     "count": 1
+  },
+  {
+    "name": "Job Job Job Sahur",
+    "placeid": 109983668079237,
+    "value": "$2.20M/s",
+    "timestamp": 1758439488,
+    "jobid": "bbdbe0c2-ed22-4dd1-a098-ddca833949c6",
+    "count": 1
   }
 ]
