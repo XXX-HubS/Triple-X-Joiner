@@ -1336,5 +1336,13 @@
     "timestamp": 1758431543,
     "jobid": "aa4953f4-e2d9-4cb1-88cc-2aba40152c8f",
     "count": 1
+  },
+  {
+    "name": "Los Orcalitos",
+    "placeid": 109983668079237,
+    "value": "$1.40M/s",
+    "timestamp": 1758431636,
+    "jobid": "3d3f92c7-d4e2-4c71-84a5-0a4690215173",
+    "count": 1
   }
 ]
