@@ -380,5 +380,16 @@
     "value": "$2.10M/s",
     "timestamp": 1758438437,
     "count": 1
+  },
+  {
+    "rarity": "Locked:",
+    "rarityColor": "#FF0000",
+    "jobid": "7b2287e4-d789-49b1-9d16-64dd633482c0",
+    "variation": "Bloodrot",
+    "name": "Los Bombinitos",
+    "placeid": 109983668079237,
+    "value": "$880.00K/s",
+    "timestamp": 1758438441,
+    "count": 1
   }
 ]
