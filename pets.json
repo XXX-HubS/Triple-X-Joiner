@@ -1659,5 +1659,13 @@
     "timestamp": 1758440071,
     "jobid": "1a6a09de-a63d-4bdf-bab0-61999fbdbd06",
     "count": 1
+  },
+  {
+    "name": "Alessio",
+    "placeid": 109983668079237,
+    "value": "$1.90M/s",
+    "timestamp": 1758440202,
+    "jobid": "b64203a6-4ce8-40cc-b5ec-3623836730fa",
+    "count": 1
   }
 ]
