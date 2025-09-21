@@ -1085,5 +1085,13 @@
     "timestamp": 1758439126,
     "jobid": "c673d85e-0f08-47b6-8a2c-ec35c7cf593e",
     "count": 1
+  },
+  {
+    "name": "Ready in:",
+    "placeid": 109983668079237,
+    "value": "$600.00K/s",
+    "timestamp": 1758439158,
+    "jobid": "84583e45-200d-4d48-8092-2581e542d528",
+    "count": 1
   }
 ]
