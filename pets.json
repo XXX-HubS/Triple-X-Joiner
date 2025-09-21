@@ -1266,5 +1266,16 @@
     "value": "$975.00K/s",
     "timestamp": 1758439230,
     "count": 1
+  },
+  {
+    "rarity": "Collect <br/><font color=\"#73ff00\">$88.8M</font>",
+    "rarityColor": "#CAFFC9",
+    "jobid": "180057d2-8d83-42fa-beee-c5a7e468d61f",
+    "variation": "Candy",
+    "name": "Crabbo Limonetta",
+    "placeid": 109983668079237,
+    "value": "$940.00K/s",
+    "timestamp": 1758439233,
+    "count": 1
   }
 ]
