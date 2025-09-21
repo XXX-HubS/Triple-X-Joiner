@@ -314,5 +314,16 @@
     "value": "$2.10M/s",
     "timestamp": 1758438420,
     "count": 1
+  },
+  {
+    "rarity": "Collect <br/><font color=\"#73ff00\">$21M</font>",
+    "rarityColor": "#CAFFC9",
+    "jobid": "180057d2-8d83-42fa-beee-c5a7e468d61f",
+    "variation": "Gold",
+    "name": "Los Tralaleritos",
+    "placeid": 109983668079237,
+    "value": "$3.50M/s",
+    "timestamp": 1758438421,
+    "count": 1
   }
 ]
