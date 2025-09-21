@@ -1750,5 +1750,13 @@
     "timestamp": 1758453116,
     "jobid": "45166e15-1c51-4b97-9d3a-0d889966b622",
     "count": 1
+  },
+  {
+    "name": "Los Tipi Tacos",
+    "placeid": 109983668079237,
+    "value": "$2.80M/s",
+    "timestamp": 1758453118,
+    "jobid": "45166e15-1c51-4b97-9d3a-0d889966b622",
+    "count": 1
   }
 ]
