@@ -3326,5 +3326,13 @@
     "timestamp": 1758437949,
     "jobid": "d39880d7-85a2-4516-b9a3-e4ab224ec795",
     "count": 1
+  },
+  {
+    "name": "x10",
+    "placeid": 109983668079237,
+    "value": "825.00K",
+    "timestamp": 1758437952,
+    "jobid": "d39880d7-85a2-4516-b9a3-e4ab224ec795",
+    "count": 1
   }
 ]
