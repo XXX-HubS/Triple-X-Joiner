@@ -2086,5 +2086,13 @@
     "timestamp": 1758453806,
     "jobid": "3c3786ca-c9b9-4141-8817-eb9d8bdcbf4c",
     "count": 1
+  },
+  {
+    "name": "8s",
+    "placeid": 109983668079237,
+    "value": "$3.00M/s",
+    "timestamp": 1758453809,
+    "jobid": "3c3786ca-c9b9-4141-8817-eb9d8bdcbf4c",
+    "count": 1
   }
 ]
