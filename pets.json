@@ -1662,5 +1662,13 @@
     "timestamp": 1758453014,
     "jobid": "45166e15-1c51-4b97-9d3a-0d889966b622",
     "count": 1
+  },
+  {
+    "name": "Piccione Macchina",
+    "placeid": 109983668079237,
+    "value": "$787.50K/s",
+    "timestamp": 1758453017,
+    "jobid": "45166e15-1c51-4b97-9d3a-0d889966b622",
+    "count": 1
   }
 ]
