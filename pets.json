@@ -1062,5 +1062,13 @@
     "timestamp": 1758450931,
     "jobid": "13edff4e-7cb2-4284-b871-d02c6bd5b5b4",
     "count": 1
+  },
+  {
+    "name": "Trenostruzzo Turbo 3000",
+    "placeid": 109983668079237,
+    "value": "$1.60M/s",
+    "timestamp": 1758450934,
+    "jobid": "13edff4e-7cb2-4284-b871-d02c6bd5b5b4",
+    "count": 1
   }
 ]
