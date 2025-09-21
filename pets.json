@@ -2867,5 +2867,13 @@
     "timestamp": 1758444840,
     "jobid": "df463d8c-0ace-425e-ba07-35b2ec4d9dca",
     "count": 1
+  },
+  {
+    "name": "16s",
+    "placeid": 109983668079237,
+    "value": "$750.00K/s",
+    "timestamp": 1758444936,
+    "jobid": "dac94a85-e732-47b6-bd76-7a5b6726601e",
+    "count": 1
   }
 ]
