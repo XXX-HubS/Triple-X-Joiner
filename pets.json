@@ -1611,5 +1611,13 @@
     "timestamp": 1758439874,
     "jobid": "b59449bd-a959-457f-9964-a7699fc5154d",
     "count": 1
+  },
+  {
+    "name": "Extinct Tralalero",
+    "placeid": 109983668079237,
+    "value": "$1.80M/s",
+    "timestamp": 1758439877,
+    "jobid": "b59449bd-a959-457f-9964-a7699fc5154d",
+    "count": 1
   }
 ]
