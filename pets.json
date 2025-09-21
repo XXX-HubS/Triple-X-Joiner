@@ -2275,5 +2275,13 @@
     "timestamp": 1758442344,
     "jobid": "ca8b9056-3a0b-42f9-a360-ace3870c6988",
     "count": 1
+  },
+  {
+    "name": "24s",
+    "placeid": 109983668079237,
+    "value": "$2.50M/s",
+    "timestamp": 1758442404,
+    "jobid": "344f6965-520e-475c-9b8d-76e356b6beb6",
+    "count": 1
   }
 ]
