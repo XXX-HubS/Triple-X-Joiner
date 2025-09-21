@@ -1683,5 +1683,13 @@
     "timestamp": 1758440208,
     "jobid": "b64203a6-4ce8-40cc-b5ec-3623836730fa",
     "count": 1
+  },
+  {
+    "name": "La Vacca Saturno Saturnita",
+    "placeid": 109983668079237,
+    "value": "$1.50M/s",
+    "timestamp": 1758440211,
+    "jobid": "b64203a6-4ce8-40cc-b5ec-3623836730fa",
+    "count": 1
   }
 ]
