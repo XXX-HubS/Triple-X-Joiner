@@ -116,5 +116,16 @@
     "value": "$3.00M/s",
     "timestamp": 1758438377,
     "count": 1
+  },
+  {
+    "rarity": "Collect <br/><font color=\"#73ff00\">$31.5M</font>",
+    "rarityColor": "#CAFFC9",
+    "jobid": "1b90e7f9-6f2f-494c-9ebd-84539d5e20f7",
+    "variation": "Galaxy",
+    "name": "Karkerkar Kurkur",
+    "placeid": 109983668079237,
+    "value": "$2.10M/s",
+    "timestamp": 1758438380,
+    "count": 1
   }
 ]
