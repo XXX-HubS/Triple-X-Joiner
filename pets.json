@@ -3166,5 +3166,13 @@
     "timestamp": 1758455004,
     "jobid": "868904c1-9763-46bc-a010-860bb1da6bf1",
     "count": 1
+  },
+  {
+    "name": "Blackhole Goat",
+    "placeid": 109983668079237,
+    "value": "$2.00M/s",
+    "timestamp": 1758455007,
+    "jobid": "72e73b7c-31de-4309-8fc6-3e12b82cb0fb",
+    "count": 1
   }
 ]
