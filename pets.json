@@ -1814,5 +1814,13 @@
     "timestamp": 1758453225,
     "jobid": "cd2f6383-e2e3-4d1c-b7ed-04e3a2d15cab",
     "count": 1
+  },
+  {
+    "name": "Gorillo Watermelondrillo",
+    "placeid": 109983668079237,
+    "value": "$1.10M/s",
+    "timestamp": 1758453248,
+    "jobid": "06df2b0a-14bc-4ec2-bfd2-7a3d097f19cf",
+    "count": 1
   }
 ]
