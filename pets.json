@@ -3534,5 +3534,13 @@
     "timestamp": 1758438105,
     "jobid": "3e0b5cf6-2e29-4264-8a64-05d8432c93f0",
     "count": 1
+  },
+  {
+    "name": "COLLECT ZONE",
+    "placeid": 109983668079237,
+    "value": "500.00K",
+    "timestamp": 1758438124,
+    "jobid": "0fc8b62b-c14e-4846-9bcd-f04a678bd29f",
+    "count": 1
   }
 ]
