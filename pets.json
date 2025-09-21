@@ -347,5 +347,16 @@
     "value": "$2.10M/s",
     "timestamp": 1758438425,
     "count": 1
+  },
+  {
+    "rarity": "Locked:",
+    "rarityColor": "#FF0000",
+    "jobid": "180057d2-8d83-42fa-beee-c5a7e468d61f",
+    "variation": "Galaxy",
+    "name": "Bombardiro Crocodilo",
+    "placeid": 109983668079237,
+    "value": "$2.10M/s",
+    "timestamp": 1758438430,
+    "count": 1
   }
 ]
