@@ -988,5 +988,16 @@
     "value": "$3.50M/s",
     "timestamp": 1758438993,
     "count": 1
+  },
+  {
+    "rarity": "Collect <br/><font color=\"#73ff00\">$6.3B</font>",
+    "rarityColor": "#CAFFC9",
+    "jobid": "582f545b-d0e4-4008-b9af-8ad78b344ed6",
+    "variation": "Galaxy",
+    "name": "Brr es Teh Patipum",
+    "placeid": 109983668079237,
+    "value": "$1.50M/s",
+    "timestamp": 1758438995,
+    "count": 1
   }
 ]
