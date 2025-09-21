@@ -1086,5 +1086,13 @@
     "timestamp": 1758451198,
     "jobid": "5a552aed-b7a3-44e1-8563-0bfacb0612f4",
     "count": 1
+  },
+  {
+    "name": "Belula Beluga",
+    "placeid": 109983668079237,
+    "value": "$2.00M/s",
+    "timestamp": 1758451201,
+    "jobid": "5a552aed-b7a3-44e1-8563-0bfacb0612f4",
+    "count": 1
   }
 ]
