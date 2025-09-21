@@ -1236,5 +1236,16 @@
     "value": "$700.00K/s",
     "timestamp": 1758439222,
     "count": 1
+  },
+  {
+    "rarity": "Collect <br/><font color=\"#73ff00\">$243.6M</font>",
+    "rarityColor": "#CAFFC9",
+    "jobid": "582f545b-d0e4-4008-b9af-8ad78b344ed6",
+    "variation": "Galaxy",
+    "name": "Chachechi",
+    "placeid": 109983668079237,
+    "value": "$2.80M/s",
+    "timestamp": 1758439225,
+    "count": 1
   }
 ]
