@@ -424,5 +424,16 @@
     "value": "$2.10M/s",
     "timestamp": 1758438449,
     "count": 1
+  },
+  {
+    "rarity": "Locked:",
+    "rarityColor": "#FF0000",
+    "jobid": "7b2287e4-d789-49b1-9d16-64dd633482c0",
+    "variation": "Candy",
+    "name": "67",
+    "placeid": 109983668079237,
+    "value": "$30.00M/s",
+    "timestamp": 1758438452,
+    "count": 1
   }
 ]
