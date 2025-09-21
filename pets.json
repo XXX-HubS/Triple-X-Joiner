@@ -1632,5 +1632,13 @@
     "timestamp": 1758432912,
     "jobid": "9f712a50-f68b-4945-a34d-a0ae5588c51a",
     "count": 1
+  },
+  {
+    "name": "Los Tralaleritos",
+    "placeid": 109983668079237,
+    "value": "$625.00K/s",
+    "timestamp": 1758432916,
+    "jobid": "9f712a50-f68b-4945-a34d-a0ae5588c51a",
+    "count": 1
   }
 ]
