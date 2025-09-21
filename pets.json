@@ -645,5 +645,16 @@
     "timestamp": 1758438525,
     "jobid": "c673d85e-0f08-47b6-8a2c-ec35c7cf593e",
     "count": 1
+  },
+  {
+    "rarity": "Collect <br/><font color=\"#73ff00\">$698.4M</font>",
+    "rarityColor": "#CAFFC9",
+    "jobid": "7b2287e4-d789-49b1-9d16-64dd633482c0",
+    "variation": "Gold",
+    "name": "Extinct Matteo",
+    "placeid": 109983668079237,
+    "value": "$625.00K/s",
+    "timestamp": 1758438544,
+    "count": 1
   }
 ]
