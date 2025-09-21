@@ -468,5 +468,16 @@
     "value": "$5.30M/s",
     "timestamp": 1758438464,
     "count": 1
+  },
+  {
+    "rarity": "Collect <br/><font color=\"#73ff00\">$343.3M</font>",
+    "rarityColor": "#CAFFC9",
+    "jobid": "0815316a-db93-4d91-b90b-c8f27932266c",
+    "variation": "Lock Base",
+    "name": "99s",
+    "placeid": 109983668079237,
+    "value": "$2.10M/s",
+    "timestamp": 1758438467,
+    "count": 1
   }
 ]
