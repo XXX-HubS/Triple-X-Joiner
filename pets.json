@@ -730,5 +730,16 @@
     "value": "$892.50K/s",
     "timestamp": 1758438610,
     "count": 1
+  },
+  {
+    "rarity": "Collect <br/><font color=\"#73ff00\">$1.2B</font>",
+    "rarityColor": "#CAFFC9",
+    "jobid": "1b90e7f9-6f2f-494c-9ebd-84539d5e20f7",
+    "variation": "Gold",
+    "name": "Pot Hotspot",
+    "placeid": 109983668079237,
+    "value": "$2.50M/s",
+    "timestamp": 1758438613,
+    "count": 1
   }
 ]
