@@ -1148,5 +1148,16 @@
     "value": "$2.40M/s",
     "timestamp": 1758439198,
     "count": 1
+  },
+  {
+    "rarity": "Collect <br/><font color=\"#73ff00\">$8.4M</font>",
+    "rarityColor": "#CAFFC9",
+    "jobid": "180057d2-8d83-42fa-beee-c5a7e468d61f",
+    "variation": "Gold",
+    "name": "Extinct Tralalero",
+    "placeid": 109983668079237,
+    "value": "$562.50K/s",
+    "timestamp": 1758439201,
+    "count": 1
   }
 ]
