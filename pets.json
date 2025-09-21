@@ -3728,5 +3728,16 @@
     "value": "$4.00M/s",
     "timestamp": 1758438311,
     "count": 1
+  },
+  {
+    "rarity": "Locked:",
+    "rarityColor": "#FF0000",
+    "jobid": "7b2287e4-d789-49b1-9d16-64dd633482c0",
+    "variation": "Gold",
+    "name": "Sigma Boy",
+    "placeid": 109983668079237,
+    "value": "$2.90M/s",
+    "timestamp": 1758438312,
+    "count": 1
   }
 ]
