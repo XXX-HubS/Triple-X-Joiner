@@ -3894,5 +3894,13 @@
     "timestamp": 1758455856,
     "jobid": "42e5f28f-99b9-4acf-87e5-8b51f24eb226",
     "count": 1
+  },
+  {
+    "name": "Los Bombinitos",
+    "placeid": 109983668079237,
+    "value": "$1.50M/s",
+    "timestamp": 1758455859,
+    "jobid": "42e5f28f-99b9-4acf-87e5-8b51f24eb226",
+    "count": 1
   }
 ]
