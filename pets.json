@@ -3694,5 +3694,13 @@
     "timestamp": 1758455550,
     "jobid": "42e5f28f-99b9-4acf-87e5-8b51f24eb226",
     "count": 1
+  },
+  {
+    "name": "Las Tralaleritas",
+    "placeid": 109983668079237,
+    "value": "$650.00K/s",
+    "timestamp": 1758455625,
+    "jobid": "9a931da6-24f4-48bf-a58e-50594db50fa4",
+    "count": 1
   }
 ]
