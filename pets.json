@@ -402,5 +402,16 @@
     "value": "$2.10M/s",
     "timestamp": 1758438443,
     "count": 1
+  },
+  {
+    "rarity": "Collect <br/><font color=\"#73ff00\">$168.9M</font>",
+    "rarityColor": "#CAFFC9",
+    "jobid": "7b2287e4-d789-49b1-9d16-64dd633482c0",
+    "variation": "Gold",
+    "name": "Trippi Troppi Troppa Trippa",
+    "placeid": 109983668079237,
+    "value": "$568.70K/s",
+    "timestamp": 1758438447,
+    "count": 1
   }
 ]
