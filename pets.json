@@ -798,5 +798,13 @@
     "timestamp": 1758449042,
     "jobid": "9707d1d7-6a13-4660-8cab-eb83793e4965",
     "count": 1
+  },
+  {
+    "name": "Las Capuchinas",
+    "placeid": 109983668079237,
+    "value": "$925.00K/s",
+    "timestamp": 1758449044,
+    "jobid": "9707d1d7-6a13-4660-8cab-eb83793e4965",
+    "count": 1
   }
 ]
