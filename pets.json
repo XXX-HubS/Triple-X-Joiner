@@ -53,5 +53,13 @@
     "value": "$2.90M/s",
     "timestamp": 1758438331,
     "count": 1
+  },
+  {
+    "name": "Cacasito Satalito",
+    "placeid": 109983668079237,
+    "value": "900.00K",
+    "timestamp": 1758438341,
+    "jobid": "9ed136f0-f5e6-446e-a314-f3ac520e8d04",
+    "count": 1
   }
 ]
