@@ -842,5 +842,16 @@
     "value": "$4.00M/s",
     "timestamp": 1758438775,
     "count": 1
+  },
+  {
+    "rarity": "Collect <br/><font color=\"#73ff00\">$732.3M</font>",
+    "rarityColor": "#CAFFC9",
+    "jobid": "582f545b-d0e4-4008-b9af-8ad78b344ed6",
+    "variation": "Gold",
+    "name": "Dul Dul Dul",
+    "placeid": 109983668079237,
+    "value": "$5.20M/s",
+    "timestamp": 1758438778,
+    "count": 1
   }
 ]
