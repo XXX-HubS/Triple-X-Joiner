@@ -697,5 +697,16 @@
     "value": "$860.00K/s",
     "timestamp": 1758438603,
     "count": 1
+  },
+  {
+    "rarity": "Collect <br/><font color=\"#73ff00\">$264M</font>",
+    "rarityColor": "#CAFFC9",
+    "jobid": "1b90e7f9-6f2f-494c-9ebd-84539d5e20f7",
+    "variation": "Gold",
+    "name": "Guerriro Digitale",
+    "placeid": 109983668079237,
+    "value": "$550.00K/s",
+    "timestamp": 1758438605,
+    "count": 1
   }
 ]
