@@ -325,5 +325,16 @@
     "value": "$3.50M/s",
     "timestamp": 1758438421,
     "count": 1
+  },
+  {
+    "rarity": "STOLEN",
+    "rarityColor": "#FF0004",
+    "jobid": "180057d2-8d83-42fa-beee-c5a7e468d61f",
+    "variation": "Gold",
+    "name": "Gattito Tacoto",
+    "placeid": 109983668079237,
+    "value": "$825.00K/s",
+    "timestamp": 1758438424,
+    "count": 1
   }
 ]
