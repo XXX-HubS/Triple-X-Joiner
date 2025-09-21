@@ -3934,5 +3934,13 @@
     "timestamp": 1758455868,
     "jobid": "b32b1864-d1a8-4c62-add5-e0f7c5c17106",
     "count": 4
+  },
+  {
+    "name": "x4",
+    "placeid": 109983668079237,
+    "value": "$1.90M/s",
+    "timestamp": 1758455871,
+    "jobid": "b32b1864-d1a8-4c62-add5-e0f7c5c17106",
+    "count": 4
   }
 ]
