@@ -472,5 +472,13 @@
     "time": "2025-09-21T02:57:36Z",
     "name": "Trippi Troppi Troppa Trippa",
     "count": 1
+  },
+  {
+    "name": "Extinct Tralalero",
+    "placeid": 109983668079237,
+    "value": "$1.80M/s",
+    "timestamp": 1758428124,
+    "jobid": "d2bbd0cf-155f-4a48-ad7a-25ae656d43d2",
+    "count": 1
   }
 ]
