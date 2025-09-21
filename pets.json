@@ -226,5 +226,16 @@
     "value": "$2.10M/s",
     "timestamp": 1758438402,
     "count": 1
+  },
+  {
+    "rarity": "Collect <br/><font color=\"#73ff00\">$18M</font>",
+    "rarityColor": "#CAFFC9",
+    "jobid": "180057d2-8d83-42fa-beee-c5a7e468d61f",
+    "variation": "Rainbow",
+    "name": "Pakrahmatmamat",
+    "placeid": 109983668079237,
+    "value": "$3.00M/s",
+    "timestamp": 1758438405,
+    "count": 1
   }
 ]
