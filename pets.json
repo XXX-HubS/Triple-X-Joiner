@@ -741,5 +741,16 @@
     "value": "$2.50M/s",
     "timestamp": 1758438613,
     "count": 1
+  },
+  {
+    "rarity": "Collect <br/><font color=\"#73ff00\">$11.3B</font>",
+    "rarityColor": "#CAFFC9",
+    "jobid": "7b2287e4-d789-49b1-9d16-64dd633482c0",
+    "variation": "Gold",
+    "name": "Chachechi",
+    "placeid": 109983668079237,
+    "value": "$2.80M/s",
+    "timestamp": 1758438627,
+    "count": 1
   }
 ]
