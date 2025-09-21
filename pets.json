@@ -1093,5 +1093,16 @@
     "timestamp": 1758439158,
     "jobid": "84583e45-200d-4d48-8092-2581e542d528",
     "count": 1
+  },
+  {
+    "rarity": "STOLEN",
+    "rarityColor": "#FF0004",
+    "jobid": "180057d2-8d83-42fa-beee-c5a7e468d61f",
+    "variation": "Gold",
+    "name": "Job Job Job Sahur",
+    "placeid": 109983668079237,
+    "value": "$600.00K/s",
+    "timestamp": 1758439187,
+    "count": 1
   }
 ]
