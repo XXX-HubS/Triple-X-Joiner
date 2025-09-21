@@ -3695,5 +3695,16 @@
     "value": "$1.60M/s",
     "timestamp": 1758438301,
     "count": 1
+  },
+  {
+    "rarity": "Collect <br/><font color=\"#73ff00\">$130.3M</font>",
+    "rarityColor": "#CAFFC9",
+    "jobid": "1b90e7f9-6f2f-494c-9ebd-84539d5e20f7",
+    "variation": "Diamond",
+    "name": "La Cucaracha",
+    "placeid": 109983668079237,
+    "value": "$712.50K/s",
+    "timestamp": 1758438304,
+    "count": 1
   }
 ]
