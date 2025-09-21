@@ -926,5 +926,16 @@
     "timestamp": 1758438881,
     "jobid": "68c9fb9b-4f22-4d90-97f5-64a287584c50",
     "count": 1
+  },
+  {
+    "rarity": "STOLEN",
+    "rarityColor": "#FF0004",
+    "jobid": "7b2287e4-d789-49b1-9d16-64dd633482c0",
+    "variation": "Gold",
+    "name": "Carrotini Brainini",
+    "placeid": 109983668079237,
+    "value": "$625.00K/s",
+    "timestamp": 1758438907,
+    "count": 1
   }
 ]
