@@ -1720,5 +1720,13 @@
     "timestamp": 1758433299,
     "jobid": "c8695926-62bc-44f7-9f34-99d1af575b8e",
     "count": 1
+  },
+  {
+    "name": "Tractoro Dinosauro",
+    "placeid": 109983668079237,
+    "value": "$1.00M/s",
+    "timestamp": 1758433302,
+    "jobid": "c8695926-62bc-44f7-9f34-99d1af575b8e",
+    "count": 1
   }
 ]
