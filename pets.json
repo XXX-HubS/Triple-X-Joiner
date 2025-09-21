@@ -526,5 +526,13 @@
     "timestamp": 1758448759,
     "jobid": "4d931f3f-6669-4f3c-87a5-7dbbc00fb694",
     "count": 1
+  },
+  {
+    "name": "Tartaruga Cisterna",
+    "placeid": 109983668079237,
+    "value": "$500.00K/s",
+    "timestamp": 1758448781,
+    "jobid": "51d2b344-f770-47d9-b91f-44e0bdaa9adf",
+    "count": 1
   }
 ]
