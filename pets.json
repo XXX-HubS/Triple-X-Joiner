@@ -1225,5 +1225,16 @@
     "value": "$2.10M/s",
     "timestamp": 1758439218,
     "count": 1
+  },
+  {
+    "rarity": "Collect <br/><font color=\"#73ff00\">$66.1M</font>",
+    "rarityColor": "#CAFFC9",
+    "jobid": "180057d2-8d83-42fa-beee-c5a7e468d61f",
+    "variation": "Gold",
+    "name": "Job Job Job Sahur",
+    "placeid": 109983668079237,
+    "value": "$700.00K/s",
+    "timestamp": 1758439222,
+    "count": 1
   }
 ]
