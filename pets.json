@@ -618,5 +618,16 @@
     "timestamp": 1758438518,
     "jobid": "c673d85e-0f08-47b6-8a2c-ec35c7cf593e",
     "count": 1
+  },
+  {
+    "rarity": "Collect <br/><font color=\"#73ff00\">$507.1M</font>",
+    "rarityColor": "#CAFFC9",
+    "jobid": "0815316a-db93-4d91-b90b-c8f27932266c",
+    "variation": "Lock Base",
+    "name": "46s",
+    "placeid": 109983668079237,
+    "value": "$2.10M/s",
+    "timestamp": 1758438520,
+    "count": 1
   }
 ]
