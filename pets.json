@@ -38,5 +38,13 @@
     "timestamp": 1758446956,
     "jobid": "0f6cafda-0fb6-4406-b2f2-8d5bbc304e99",
     "count": 1
+  },
+  {
+    "name": "Capi Taco",
+    "placeid": 109983668079237,
+    "value": "$3.00M/s",
+    "timestamp": 1758447154,
+    "jobid": "51d2b344-f770-47d9-b91f-44e0bdaa9adf",
+    "count": 1
   }
 ]
