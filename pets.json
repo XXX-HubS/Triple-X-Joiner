@@ -1987,5 +1987,13 @@
     "timestamp": 1758440706,
     "jobid": "71d914f1-8f2d-4fa3-917a-225d2a3db1dc",
     "count": 1
+  },
+  {
+    "name": "19s",
+    "placeid": 109983668079237,
+    "value": "$577.50K/s",
+    "timestamp": 1758440782,
+    "jobid": "7353ace7-7e39-4775-9a5b-5101e7cbed11",
+    "count": 1
   }
 ]
