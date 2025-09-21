@@ -1619,5 +1619,13 @@
     "timestamp": 1758439877,
     "jobid": "b59449bd-a959-457f-9964-a7699fc5154d",
     "count": 1
+  },
+  {
+    "name": "Girafa Celestre",
+    "placeid": 109983668079237,
+    "value": "$866.20K/s",
+    "timestamp": 1758440035,
+    "jobid": "1a6a09de-a63d-4bdf-bab0-61999fbdbd06",
+    "count": 1
   }
 ]
