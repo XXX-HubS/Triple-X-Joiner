@@ -3617,5 +3617,13 @@
     "value": "$700.00K/s",
     "timestamp": 1758438247,
     "count": 1
+  },
+  {
+    "name": "COLLECT ZONE",
+    "placeid": 109983668079237,
+    "value": "1.30M",
+    "timestamp": 1758438255,
+    "jobid": "502a1cbd-f3a8-4b8f-90b5-9dfff9594fa0",
+    "count": 1
   }
 ]
