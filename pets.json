@@ -1354,5 +1354,16 @@
     "value": "$2.50M/s",
     "timestamp": 1758439255,
     "count": 1
+  },
+  {
+    "rarity": "Collect <br/><font color=\"#73ff00\">$236.2M</font>",
+    "rarityColor": "#CAFFC9",
+    "jobid": "180057d2-8d83-42fa-beee-c5a7e468d61f",
+    "variation": "Rainbow",
+    "name": "Tartaruga Cisterna",
+    "placeid": 109983668079237,
+    "value": "$2.50M/s",
+    "timestamp": 1758439258,
+    "count": 1
   }
 ]
