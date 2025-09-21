@@ -3430,5 +3430,13 @@
     "timestamp": 1758455280,
     "jobid": "4b26d3db-2cb6-4d92-a0d3-861ec2359cd4",
     "count": 1
+  },
+  {
+    "name": "Bisonte Giuppitere",
+    "placeid": 109983668079237,
+    "value": "$2.10M/s",
+    "timestamp": 1758455295,
+    "jobid": "72e7d9b0-f6a2-42c3-a778-d5e182f3b778",
+    "count": 1
   }
 ]
