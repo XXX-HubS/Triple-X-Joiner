@@ -977,5 +977,16 @@
     "timestamp": 1758438988,
     "jobid": "c673d85e-0f08-47b6-8a2c-ec35c7cf593e",
     "count": 1
+  },
+  {
+    "rarity": "Locked:",
+    "rarityColor": "#FF0000",
+    "jobid": "582f545b-d0e4-4008-b9af-8ad78b344ed6",
+    "variation": "(Offline Cash: $700)",
+    "name": "Brr es Teh Patipum",
+    "placeid": 109983668079237,
+    "value": "$3.50M/s",
+    "timestamp": 1758438993,
+    "count": 1
   }
 ]
