@@ -390,5 +390,13 @@
     "timestamp": 1758447523,
     "jobid": "dcf66363-4b47-43d4-9be1-9693d586d90b",
     "count": 1
+  },
+  {
+    "name": "Graipuss Medussi",
+    "placeid": 109983668079237,
+    "value": "$1.00M/s",
+    "timestamp": 1758447526,
+    "jobid": "dcf66363-4b47-43d4-9be1-9693d586d90b",
+    "count": 1
   }
 ]
