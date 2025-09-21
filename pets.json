@@ -1862,5 +1862,13 @@
     "timestamp": 1758453309,
     "jobid": "01afb3b5-691b-4ef2-8bd9-417587e994c4",
     "count": 1
+  },
+  {
+    "name": "La Cucaracha",
+    "placeid": 109983668079237,
+    "value": "$2.30M/s",
+    "timestamp": 1758453312,
+    "jobid": "01afb3b5-691b-4ef2-8bd9-417587e994c4",
+    "count": 1
   }
 ]
