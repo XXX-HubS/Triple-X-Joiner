@@ -1255,5 +1255,16 @@
     "timestamp": 1758439227,
     "jobid": "c673d85e-0f08-47b6-8a2c-ec35c7cf593e",
     "count": 1
+  },
+  {
+    "rarity": "Collect <br/><font color=\"#73ff00\">$84.8M</font>",
+    "rarityColor": "#CAFFC9",
+    "jobid": "582f545b-d0e4-4008-b9af-8ad78b344ed6",
+    "variation": "Diamond",
+    "name": "Las Tralaleritas",
+    "placeid": 109983668079237,
+    "value": "$975.00K/s",
+    "timestamp": 1758439230,
+    "count": 1
   }
 ]
