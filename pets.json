@@ -94,5 +94,16 @@
     "value": "$1.40M/s",
     "timestamp": 1758438372,
     "count": 1
+  },
+  {
+    "rarity": "STOLEN",
+    "rarityColor": "#FF0004",
+    "jobid": "1b90e7f9-6f2f-494c-9ebd-84539d5e20f7",
+    "variation": "Candy",
+    "name": "Gattito Tacoto",
+    "placeid": 109983668079237,
+    "value": "$1.30M/s",
+    "timestamp": 1758438375,
+    "count": 1
   }
 ]
