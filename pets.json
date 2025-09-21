@@ -787,5 +787,16 @@
     "timestamp": 1758438763,
     "jobid": "c673d85e-0f08-47b6-8a2c-ec35c7cf593e",
     "count": 1
+  },
+  {
+    "rarity": "Collect <br/><font color=\"#73ff00\">$46.1M</font>",
+    "rarityColor": "#CAFFC9",
+    "jobid": "180057d2-8d83-42fa-beee-c5a7e468d61f",
+    "variation": "Gold",
+    "name": "Las Vaquitas Saturnitas",
+    "placeid": 109983668079237,
+    "value": "$750.00K/s",
+    "timestamp": 1758438764,
+    "count": 1
   }
 ]
