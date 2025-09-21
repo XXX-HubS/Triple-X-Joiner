@@ -1061,5 +1061,13 @@
     "timestamp": 1758439081,
     "jobid": "84583e45-200d-4d48-8092-2581e542d528",
     "count": 1
+  },
+  {
+    "name": "Avocadini Antilopini",
+    "placeid": 109983668079237,
+    "value": "$2.50M/s",
+    "timestamp": 1758439086,
+    "jobid": "c673d85e-0f08-47b6-8a2c-ec35c7cf593e",
+    "count": 1
   }
 ]
