@@ -1798,5 +1798,13 @@
     "timestamp": 1758453220,
     "jobid": "cd2f6383-e2e3-4d1c-b7ed-04e3a2d15cab",
     "count": 1
+  },
+  {
+    "name": "Bombardini Tortinii",
+    "placeid": 109983668079237,
+    "value": "$2.00M/s",
+    "timestamp": 1758453223,
+    "jobid": "cd2f6383-e2e3-4d1c-b7ed-04e3a2d15cab",
+    "count": 1
   }
 ]
