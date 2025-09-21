@@ -149,5 +149,16 @@
     "value": "$700.00K/s",
     "timestamp": 1758438386,
     "count": 1
+  },
+  {
+    "rarity": "Locked:",
+    "rarityColor": "#FF0000",
+    "jobid": "0815316a-db93-4d91-b90b-c8f27932266c",
+    "variation": "(Offline Cash: $700)",
+    "name": "Bisonte Giuppitere",
+    "placeid": 109983668079237,
+    "value": "$2.10M/s",
+    "timestamp": 1758438387,
+    "count": 1
   }
 ]
