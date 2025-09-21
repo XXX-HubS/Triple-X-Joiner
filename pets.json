@@ -1299,5 +1299,16 @@
     "value": "$1.80M/s",
     "timestamp": 1758439239,
     "count": 1
+  },
+  {
+    "rarity": "Collect <br/><font color=\"#73ff00\">$171.9M</font>",
+    "rarityColor": "#CAFFC9",
+    "jobid": "180057d2-8d83-42fa-beee-c5a7e468d61f",
+    "variation": "Galaxy",
+    "name": "Los Tipi Tacos",
+    "placeid": 109983668079237,
+    "value": "$1.80M/s",
+    "timestamp": 1758439242,
+    "count": 1
   }
 ]
