@@ -1247,5 +1247,13 @@
     "value": "$2.80M/s",
     "timestamp": 1758439225,
     "count": 1
+  },
+  {
+    "name": "Te Te Te Sahur",
+    "placeid": 109983668079237,
+    "value": "$2.50M/s",
+    "timestamp": 1758439227,
+    "jobid": "c673d85e-0f08-47b6-8a2c-ec35c7cf593e",
+    "count": 1
   }
 ]
