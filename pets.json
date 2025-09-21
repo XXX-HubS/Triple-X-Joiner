@@ -3542,5 +3542,13 @@
     "timestamp": 1758438124,
     "jobid": "0fc8b62b-c14e-4846-9bcd-f04a678bd29f",
     "count": 1
+  },
+  {
+    "name": "Las Capuchinas",
+    "placeid": 109983668079237,
+    "value": "3.70M",
+    "timestamp": 1758438128,
+    "jobid": "0fc8b62b-c14e-4846-9bcd-f04a678bd29f",
+    "count": 1
   }
 ]
