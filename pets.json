@@ -72,5 +72,16 @@
     "value": "$5.30M/s",
     "timestamp": 1758438348,
     "count": 1
+  },
+  {
+    "rarity": "STOLEN",
+    "rarityColor": "#FF0004",
+    "jobid": "1b90e7f9-6f2f-494c-9ebd-84539d5e20f7",
+    "variation": "(Offline Cash: <font color=\"#73ff00\">$73.5M</font>)",
+    "name": "Trippi Troppi Troppa Trippa",
+    "placeid": 109983668079237,
+    "value": "$1.30M/s",
+    "timestamp": 1758438369,
+    "count": 1
   }
 ]
