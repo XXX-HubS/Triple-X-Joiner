@@ -2926,5 +2926,13 @@
     "timestamp": 1758454798,
     "jobid": "63561da7-d920-4468-ab1f-5924eccc87a4",
     "count": 1
+  },
+  {
+    "name": "Bombardiro Crocodilo",
+    "placeid": 109983668079237,
+    "value": "$1.80M/s",
+    "timestamp": 1758454801,
+    "jobid": "63561da7-d920-4468-ab1f-5924eccc87a4",
+    "count": 1
   }
 ]
