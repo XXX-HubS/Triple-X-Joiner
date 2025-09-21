@@ -1747,5 +1747,13 @@
     "timestamp": 1758440288,
     "jobid": "f7aadc03-7e99-4d32-a5b7-4b65a8d33e55",
     "count": 10
+  },
+  {
+    "name": "x10",
+    "placeid": 109983668079237,
+    "value": "$500.00K/s",
+    "timestamp": 1758440290,
+    "jobid": "f7aadc03-7e99-4d32-a5b7-4b65a8d33e55",
+    "count": 10
   }
 ]
