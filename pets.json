@@ -166,5 +166,13 @@
     "timestamp": 1758456144,
     "jobid": "08fc051a-fb5c-4160-a1e7-745695d6e4f6",
     "count": 1
+  },
+  {
+    "name": "Pipi Kiwi",
+    "placeid": 109983668079237,
+    "value": "$825.00K/s",
+    "timestamp": 1758456173,
+    "jobid": "e0343b59-96ee-44c7-8ec2-80bd3e37462d",
+    "count": 1
   }
 ]
