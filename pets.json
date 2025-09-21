@@ -1190,5 +1190,13 @@
     "timestamp": 1758451572,
     "jobid": "d9957dd7-7ce7-413d-b1ba-61836c29d3f1",
     "count": 1
+  },
+  {
+    "name": "Crabbo Limonetta",
+    "placeid": 109983668079237,
+    "value": "$1.10M/s",
+    "timestamp": 1758451575,
+    "jobid": "d9957dd7-7ce7-413d-b1ba-61836c29d3f1",
+    "count": 1
   }
 ]
