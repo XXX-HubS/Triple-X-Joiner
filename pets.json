@@ -1272,5 +1272,13 @@
     "timestamp": 1758431447,
     "jobid": "814d6503-d74b-4ea7-b433-e528e42ee170",
     "count": 1
+  },
+  {
+    "name": "Fragola La La La",
+    "placeid": 109983668079237,
+    "value": "$4.50M/s",
+    "timestamp": 1758431523,
+    "jobid": "aa4953f4-e2d9-4cb1-88cc-2aba40152c8f",
+    "count": 1
   }
 ]
