@@ -1838,5 +1838,13 @@
     "timestamp": 1758453254,
     "jobid": "06df2b0a-14bc-4ec2-bfd2-7a3d097f19cf",
     "count": 1
+  },
+  {
+    "name": "Gattito Tacoto",
+    "placeid": 109983668079237,
+    "value": "$1.10M/s",
+    "timestamp": 1758453257,
+    "jobid": "06df2b0a-14bc-4ec2-bfd2-7a3d097f19cf",
+    "count": 1
   }
 ]
