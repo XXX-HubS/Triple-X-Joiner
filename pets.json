@@ -61,5 +61,16 @@
     "timestamp": 1758438341,
     "jobid": "9ed136f0-f5e6-446e-a314-f3ac520e8d04",
     "count": 1
+  },
+  {
+    "rarity": "Locked:",
+    "rarityColor": "#FF0000",
+    "jobid": "1b90e7f9-6f2f-494c-9ebd-84539d5e20f7",
+    "variation": "Gold",
+    "name": "Tralalero Tralala",
+    "placeid": 109983668079237,
+    "value": "$5.30M/s",
+    "timestamp": 1758438348,
+    "count": 1
   }
 ]
