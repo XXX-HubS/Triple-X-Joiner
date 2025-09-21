@@ -1675,5 +1675,13 @@
     "timestamp": 1758440206,
     "jobid": "b64203a6-4ce8-40cc-b5ec-3623836730fa",
     "count": 1
+  },
+  {
+    "name": "Mastodontico Telepiedone",
+    "placeid": 109983668079237,
+    "value": "$1.90M/s",
+    "timestamp": 1758440208,
+    "jobid": "b64203a6-4ce8-40cc-b5ec-3623836730fa",
+    "count": 1
   }
 ]
