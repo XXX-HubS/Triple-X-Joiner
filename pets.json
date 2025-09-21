@@ -182,5 +182,16 @@
     "value": "$2.10M/s",
     "timestamp": 1758438390,
     "count": 1
+  },
+  {
+    "rarity": "Collect <br/><font color=\"#73ff00\">$1.8B</font>",
+    "rarityColor": "#CAFFC9",
+    "jobid": "582f545b-d0e4-4008-b9af-8ad78b344ed6",
+    "variation": "Gold",
+    "name": "La Cucaracha",
+    "placeid": 109983668079237,
+    "value": "$2.30M/s",
+    "timestamp": 1758438391,
+    "count": 1
   }
 ]
