@@ -270,5 +270,13 @@
     "timestamp": 1758456385,
     "jobid": "97c470dd-d62a-46e0-9b6d-fbfa14aaf004",
     "count": 1
+  },
+  {
+    "name": "Pot Hotspot",
+    "placeid": 109983668079237,
+    "value": "$3.10M/s",
+    "timestamp": 1758456388,
+    "jobid": "97c470dd-d62a-46e0-9b6d-fbfa14aaf004",
+    "count": 1
   }
 ]
