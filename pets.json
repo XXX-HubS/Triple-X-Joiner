@@ -1158,5 +1158,13 @@
     "timestamp": 1758451457,
     "jobid": "f9109bc6-a51d-4753-9b16-5ef4f164662b",
     "count": 1
+  },
+  {
+    "name": "34s",
+    "placeid": 109983668079237,
+    "value": "$1.50M/s",
+    "timestamp": 1758451564,
+    "jobid": "d9957dd7-7ce7-413d-b1ba-61836c29d3f1",
+    "count": 1
   }
 ]
