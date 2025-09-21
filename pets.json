@@ -174,5 +174,13 @@
     "timestamp": 1758456173,
     "jobid": "e0343b59-96ee-44c7-8ec2-80bd3e37462d",
     "count": 1
+  },
+  {
+    "name": "Urubini Flamenguini",
+    "placeid": 109983668079237,
+    "value": "$1.30M/s",
+    "timestamp": 1758456175,
+    "jobid": "e0343b59-96ee-44c7-8ec2-80bd3e37462d",
+    "count": 1
   }
 ]
